@@ -4,6 +4,7 @@ import 'package:path_provider/path_provider.dart';
 import 'package:simplenotes_flutter/models/note.dart';
 
 
+
 class NoteDatabase extends ChangeNotifier{
   static late Isar isar;
 
